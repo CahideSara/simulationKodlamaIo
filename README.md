@@ -11,6 +11,3 @@ Kategori ismi tekrar edemez
 Bir kursun fiyatı 0 dan küçük olamaz
 Kodlarınızı github'a aktarınız
 
-Diğer arkadaşlarınızın kodlarını inceleyip beğenirseniz yıldızlayınız.
-
-Not: Aldığınız yıldızlar github sayfa kaliteniz için sektörde çok belirleyicidir.
